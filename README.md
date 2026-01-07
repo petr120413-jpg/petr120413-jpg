@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi there, I’m Peter</h1>
+<i class="fa-thin fa-alarm-snooze"></i>
 
 Here are some ideas to get you started:
 
